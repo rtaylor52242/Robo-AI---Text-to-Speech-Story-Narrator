@@ -1,0 +1,7 @@
+{
+  "name": "Robo AI - Text-to-Speech Story Narrator",
+  "description": "An AI-powered story narrator app that converts script text to natural-sounding audio with multi-speaker support, voice cloning simulation, and background music integration using Google Gemini 2.5 Flash TTS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
